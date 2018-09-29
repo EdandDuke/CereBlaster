@@ -33,6 +33,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Testing App Title"/>
+        android:text="Our Project is Finally Working!!!"/>
 
 </android.support.design.widget.CoordinatorLayout>
